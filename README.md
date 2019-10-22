@@ -1,2 +1,3 @@
 # hello-world
-to be or not to be that is a qustion
+Hi! guys.
+I want learn about Java and wechat.
